@@ -1,5 +1,4 @@
 #include <stdio.h>
-look right here do u see and discription  
 int main(void)
 {
   int n;
